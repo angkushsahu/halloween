@@ -1,0 +1,30 @@
+{
+    "name": "Halloween",
+    "short_name": "halloween",
+    "icons": [
+        {
+            "src": "/assets/public/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/public/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/public/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#110f0e",
+    "background_color": "#110f0e",
+    "display": "standalone",
+    "orientation": "any",
+    "description": "Halloween is celebrated every October 31 at night, walk around the city with your friends and trick or treat, enjoy this celebration under the full moon",
+    "scope": "/",
+    "start_url": "/",
+    "id": "/"
+}
